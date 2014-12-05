@@ -1,4 +1,0 @@
-1 - Arthur Silvestre    2200
-2 - Robson Luiz         2000
-3 - Bruno Borba         200
-Fim
